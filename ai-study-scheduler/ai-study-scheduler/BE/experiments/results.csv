@@ -1,0 +1,6 @@
+﻿scenario,ga_fitness,edf_fitness,ga_full_schedule_rate,edf_full_schedule_rate,ga_completion_ratio,edf_completion_ratio,ga_allocated_hours,edf_allocated_hours,generations_run,execution_seconds
+01_low_load,534.26,532.26,1.0,1.0,1.0,1.0,3.5,3.5,51,0.317134
+02_tight_deadlines,845.625,843.625,1.0,1.0,1.0,1.0,7.5,7.5,33,0.21741
+03_limited_availability,211.2923,206.1658,0.3333,0.3333,0.3889,0.375,5.5,5.5,35,0.168228
+04_priority_competition,794.7925,794.7925,0.75,0.75,0.75,0.75,9.0,9.0,30,0.205028
+05_larger_case,1891.5925,1451.3084,1.0,0.5714,1.0,0.8595,15.5,13.5,30,0.351951
